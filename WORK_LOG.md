@@ -1,9 +1,9 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |      Time       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Update |
+|:-------|:---------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Jan 31 | 2-3, 3:30 - 4pm | I thought about how I would make a brute force method using recursion, and wrote psuedocode for it, and then wrote out code for it. I realized however that there was a problem with by psuedocode, and that I was including a situation like 1 + 5 and 5 + 1 as two separate cases instead of the same, meaning that I was counting extra paths. I rewrote the psuedocode for a fix where you go down the array and either add the coin or go on to the previous one, instead of looping through the entire array and adding coins for each index. |
+| Jan 31 |      5-6pm      |                                                                                                                                                                                                                                                                                                                                                                                    I coded based off of the psuedocode I had written, and it worked after a few small bugs. It didn't run on the bigger test cases, but worked on the smaller ones. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
